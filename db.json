@@ -1,4 +1,9 @@
 {
+  "accounts":[
+    {"id":"A-000001", "name":"Marc Brown", "DOB":"07-06-1988", "Address":"New York"},
+    {"id":"A-000002", "name":"Martha George", "DOB":"03-01-1998", "Address":"Los Angelese"},
+    {"id":"A-000003", "name":"Alice Queen", "DOB":"10-06-1994", "Address":"Las Vegas"}
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
